@@ -1,5 +1,5 @@
 # ZomChat v2
-This the new NextJs version of [ZomChat](https://github.com/anant-bahuguna/zomchat) which I created for Zomentum Assessment.
+This the new NextJs version of [ZomChat](https://github.com/anant-bahuguna/zomchat)(original) which I created for Zomentum Assessment.
 
 ## UI Demo - [ZomChat](https://zomchat-nextjs.vercel.app/)
 
