@@ -46,7 +46,9 @@ A step by step series of examples that tell you how to get a development env run
 
 ## Deployment
 
-It can be deployed on any popular sevice like vercel, netlify, heroku, github pages,etc.
+* [Live Link](https://zomchat-nextjs.vercel.app/)
+* Deployed using [vercel](https://vercel.com/)
+* It can be deployed on any popular sevice like vercel, netlify, heroku, github pages,etc.
 
 
 ## Built With
