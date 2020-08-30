@@ -1,3 +1,5 @@
 import ChatInputBox from "./ChatInputBox";
+import ReceivedMessage from "./ReceivedMessage";
+import SentMessage from "./SentMessage";
 
-export { ChatInputBox };
+export { ChatInputBox, ReceivedMessage, SentMessage };

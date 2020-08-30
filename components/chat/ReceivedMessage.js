@@ -4,7 +4,7 @@ const ReceivedMessage = ({message}) => {
             <div className="flex-none ">
                 <a href="#">
                     <img
-                        src={message.sender.imageUrl}
+                        src={message.sender ? message.sender.imageUrl : '/dp1.jpg'}
                         alt="avatar"
                         className="w-10 h-10 rounded-full"
                     />

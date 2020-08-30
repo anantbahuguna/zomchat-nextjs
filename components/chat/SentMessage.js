@@ -4,7 +4,7 @@ const SentMessage = ({ message }) => {
             <div className="flex-none ml-5">
                 <a href="#">
                     <img
-                        src={require("../../assets/dp1.jpg")}
+                        src={message.sender ? message.sender.imageUrl : '/dp1.jpg'}
                         alt="avatar"
                         className="w-10 h-10 rounded-full"
                     />
@@ -23,7 +23,7 @@ const SentMessage = ({ message }) => {
                                 </span>
                             </div> */}
                 <div>
-                    <div>Here are the Tailwind Docs</div>
+                    {message.body}
                 </div>
             </div>
         </div>
