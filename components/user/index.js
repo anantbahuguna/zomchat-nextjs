@@ -1,11 +1,11 @@
 import UserImage from './UserImage'
-// import UserSearchBox from './UserSearchBox'
-// import UserList from './UserList'
+import UserSearchBox from './UserSearchBox'
+import UserList from './UserList'
 import UserModal from './UserModal'
 
 export {
     UserImage,
-    // UserSearchBox,
-    // UserList,
+    UserSearchBox,
+    UserList,
     UserModal
 }

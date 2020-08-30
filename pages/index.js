@@ -1,10 +1,10 @@
-import {TopBar} from '../components/layout'
+import {TopBar, MainBody} from '../components/layout'
 
 const Home = () => (
     <div className="flex">
         <div className="flex-1 flex flex-col min-h-screen h-screen">
             <TopBar />
-            {/* <MainBody /> */}
+            <MainBody />
         </div>
     </div>
 );
