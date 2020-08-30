@@ -3,7 +3,7 @@ This the new NextJs version of [ZomChat](https://github.com/anant-bahuguna/zomch
 
 ## UI Demo - [ZomChat](https://zomchat-nextjs.vercel.app/)
 
-![Demo](zomchat.gif)
+![Demo](zomchat-2.gif)
 
 
 ## UI Screenshots
