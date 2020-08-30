@@ -32,7 +32,7 @@ const TopBar = () => {
                 </div>
 
                 <div className="flex items-center">
-                    <a href="# " className="ml-4">
+                    <a href="# " className="ml-4 hidden md:inline-block">
                         <svg
                             aria-hidden="true"
                             focusable="false"
@@ -49,7 +49,7 @@ const TopBar = () => {
                             ></path>
                         </svg>
                     </a>
-                    <a href="# " className="ml-4">
+                    <a href="# " className="ml-4 hidden md:inline-block">
                         <svg
                             aria-hidden="true"
                             focusable="false"
